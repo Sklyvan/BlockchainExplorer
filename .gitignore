@@ -272,5 +272,5 @@ cython_debug/
 # Ignore all .txt files
 *.txt
 
-# Ignore the Configuration.ini file
 Configuration.ini
+Logo.xcf
