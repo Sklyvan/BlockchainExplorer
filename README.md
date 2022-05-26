@@ -10,7 +10,7 @@ The main functionality is to create massive transactions and send them to the bl
 - [Go Ethereum Console](https://geth.ethereum.org/)
 - [Python 3.6+](https://www.python.org/downloads/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
-<br>
+
 ## Configuration
 To launch the program, you need to fill the Configuration file with the correct information.
 ```ini
