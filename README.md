@@ -31,7 +31,7 @@ Note that for the Node Information section, you can choose between the:
 ## Usage
 To use the program, you need to run the following command:
 ```shell
-python3 Main.py -n NumberOfSenders -r Addr1,Addr2,... -t TransactionsPerSecond -s TransactionBytesSize
+python3 Main.py -n Senders -r Addr1,Addr2,... -t TransactionsSecond -s BytesSize
 ```
 - n: Number of wallets from which the transactions will be sent.
 - r: List of receivers addresses, separated by commas without spaces.
